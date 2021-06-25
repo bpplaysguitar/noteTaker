@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "![GitHub code size](https://img.shields.io/github/languages/code-size/bpplaysguitar/noteTaker?color=FFADAD&logo=GitHub&logoColor=FFADAD&style=flat)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpplaysguitar/noteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bpplaysguitar/noteTaker/issues"
+  },
+  "homepage": "https://github.com/bpplaysguitar/noteTaker#readme"
 }
