@@ -26,12 +26,12 @@
 
 
 ## Description
-      
+      This Note Taker app allows users to keep track of to-dos and other notes by entering them into the app and saving them to the list of notes on the left side of the page. Users can retrieve notes by clicking on them. The front end of this project was made by the boot camp, and I had to provide routing and a server for the back end.
 
 ## Technologies Used
-____<br>
-____<br>
-____<br>
+HTML<br>
+CSS<br>
+JavaScript<br>
 Node.js
       
       
@@ -49,13 +49,14 @@ git clone https://github.com/bpplaysguitar/noteTaker.git,
 5. Create your own repository for the files on GitHub.
 
 6. Edit in your code editor and continue to commit, push changes and perform other Git actions using your repository https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html.
+
+7. Use Heroku to deploy. See http://www.heroku.com for how to get started.
       
 
 ## Usage
 Screenshot and video of application in use
-![teamProfileGenerator](/images/teamProfileGenerator.gif)
+![noteTaker](/assets/images/noteTaker.gif)
 <br>
-<a href="https://drive.google.com/file/d/1321lo9jdDESyWruCeNHjcHoGP34CW7We">Watch Full Walkthrough Video</a>
 
       
 ## Credits
