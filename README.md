@@ -26,7 +26,7 @@
 
 
 ## Description
-      This Note Taker app allows users to keep track of to-dos and other notes by entering them into the app and saving them to the list of notes on the left side of the page. Users can retrieve notes by clicking on them. The front end of this project was made by the boot camp, and I had to provide routing and a server for the back end.
+This Note Taker app allows users to keep track of to-dos and other notes by entering them into the app and saving them to the list of notes on the left side of the page. Users can retrieve notes by clicking on them. The front end of this project was made by the boot camp, and I had to provide routing and a server for the back end.
 
 ## Technologies Used
 HTML<br>
@@ -55,7 +55,7 @@ git clone https://github.com/bpplaysguitar/noteTaker.git,
 
 ## Usage
 Screenshot and video of application in use
-![noteTaker](/assets/images/noteTaker.gif)
+![noteTaker](/public/assets/images/noteTaker.gif)
 <br>
 
       
