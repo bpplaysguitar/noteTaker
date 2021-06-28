@@ -54,7 +54,7 @@ git clone https://github.com/bpplaysguitar/noteTaker.git,
       
 
 ## Usage
-Screenshot and video of application in use
+Application in use
 ![noteTaker](/public/assets/images/noteTaker.gif)
 <br>
 
